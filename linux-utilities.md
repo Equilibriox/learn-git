@@ -20,8 +20,8 @@
 8. Копирование файлов:
 >  cp
 9. Перемещение файлов:
->  mv  index.html src/index.html (каталог)
->  mv  index.html index1.html    (переименовать)
+- >  mv  index.html src/index.html (каталог)
+- >  mv  index.html index1.html    (переименовать)
 10. Удаление файлов:
 >  rm * (всех)
 >  rm
